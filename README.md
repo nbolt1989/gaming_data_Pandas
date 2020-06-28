@@ -92,3 +92,11 @@ You must use the Pandas Library and the Jupyter Notebook.
 You must submit a link to your Jupyter Notebook with the viewable Data Frames.
 You must include a written description of three observable trends based on the data.
 See Example Solution for a reference on expected format.
+
+
+Three Observations Write Up:
+•    Observation 1: Male gamers dominate this gaming data set; taking up nearly 85% of the total gender count and spent ~5x more on games than females. 
+•    Observation 2: Gamers under 10 years of age, and above 40, combine for roughly 5% of the total. The largest age band is 20-24 taking up roughly 45% and seeing a 2.5x increase from the preceding age band of 15-19. 
+•    Observation 3: Once a gamer hits 25, their total purchases and overall playing decreases significantly, then eventually once they hit 40yo they drop off from playing almost entirely.  
+
+*See Docx inside Git Repo for more information. 
